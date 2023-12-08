@@ -228,7 +228,7 @@
 // let faktorial = faktorialTap(eded);
 // console.log(eded + " ədədin faktorialı: " + faktorial);
 
-//--------------------------------------------------------------------------------------------------
+
 
 
 
